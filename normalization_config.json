@@ -1,0 +1,4709 @@
+{
+  "fields": [
+    {
+      "field_path": "engine_name",
+      "categories": [
+        {
+          "normalized_value": "Unity",
+          "description": "Unity (version not specified).",
+          "raw_variations": [
+            "Unity",
+            "Unity 3.5",
+            "Unity5",
+            "Unity 5.6",
+            "Unity 2022",
+            "Unity 2D",
+            "Unity 2017.3.1",
+            "Unity 5 transition",
+            "Unity3D",
+            "Unity/UE",
+            "Unity, Unreal, Godot",
+            "Unity/UE5"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Unreal Engine",
+          "description": "Unreal Engine without an explicit version (UE4/UE5 ambiguous).",
+          "raw_variations": [
+            "Unreal",
+            "Unreal Engine",
+            "Unreal Engine 4",
+            "Unreal/Unity"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Unreal Engine 4",
+          "description": "Explicitly Unreal Engine 4.",
+          "raw_variations": [
+            "Unreal Engine 4",
+            "UE4"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Unreal Engine 5",
+          "description": "Explicitly Unreal Engine 5.",
+          "raw_variations": [
+            "Unreal Engine 5",
+            "UE5.2"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "UDK",
+          "description": "Unreal Development Kit (UE3).",
+          "raw_variations": [
+            "UDK"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Godot",
+          "description": "Godot (version not specified).",
+          "raw_variations": [
+            "Godot",
+            "Godot 4.3",
+            "Godot 4.x",
+            "Godot 4"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "CryEngine",
+          "description": "CryEngine without explicit version.",
+          "raw_variations": [
+            "CryEngine",
+            "Cryengine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "CryEngine 1",
+          "description": "CryEngine 1 (original).",
+          "raw_variations": [
+            "CryEngine 1"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "CryEngine 5",
+          "description": "CryEngine 5.",
+          "raw_variations": [
+            "CryEngine 5"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "GameMaker (Classic)",
+          "description": "Pre‑Studio GameMaker versions (8.x and earlier).",
+          "raw_variations": [
+            "GameMaker",
+            "Gamemaker",
+            "Game Maker",
+            "Game Maker Pro",
+            "Game Maker 8.1 lite"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "GameMaker Studio",
+          "description": "GameMaker Studio (1.x).",
+          "raw_variations": [
+            "GameMaker Studio",
+            "Gamemaker Studio",
+            "GameMaker:Studio",
+            "GameMaker Studio 1.4",
+            "Gamemaker: Studio",
+            "GameMaker: Studio",
+            "Game Maker Studio"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "GameMaker Studio 2",
+          "description": "GameMaker Studio 2.x.",
+          "raw_variations": [
+            "GameMaker Studio 2",
+            "Game Maker Studio 2",
+            "Gamemaker Studio 2",
+            "GMS2",
+            "GameMaker 2",
+            "GameMaker: Studio 2",
+            "GameMaker2"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Construct (Classic)",
+          "description": "Original Construct engine.",
+          "raw_variations": [
+            "Construct"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Construct 2",
+          "description": null,
+          "raw_variations": [
+            "Construct 2",
+            "Construct2"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Construct 3",
+          "description": null,
+          "raw_variations": [
+            "Construct3",
+            "Construct 3"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Stencyl",
+          "description": null,
+          "raw_variations": [
+            "Stencyl"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "XNA",
+          "description": "Microsoft XNA framework.",
+          "raw_variations": [
+            "XNA",
+            "XNA Framework"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "FNA",
+          "description": "Open‑source reimplementation of XNA (like MonoGame but different).",
+          "raw_variations": [
+            "FNA"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "MonoGame",
+          "description": "Open‑source implementation of XNA.",
+          "raw_variations": [
+            "Monogame",
+            "Mono",
+            "Base Monogame",
+            "Protogame"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Phaser",
+          "description": "Phaser without an explicit version.",
+          "raw_variations": [
+            "Phaser",
+            "PhaserJS",
+            "Phaser.js",
+            "Phaser JS",
+            "Phaser.io",
+            "Phaser.IO",
+            "Phaser CE",
+            "Pixi.js",
+            "melonJS"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Phaser 3",
+          "description": null,
+          "raw_variations": [
+            "Phaser 3",
+            "Phaser3"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Maker",
+          "description": "RPG Maker (version not specified).",
+          "raw_variations": [
+            "RPG Maker",
+            "RPGMaker",
+            "RPGmaker",
+            "RPG Maker 2003",
+            "Wolf RPG",
+            "RpgMaker XP",
+            "Dungeon Craft"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Maker XP",
+          "description": null,
+          "raw_variations": [
+            "RPG Maker XP"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Maker 2000",
+          "description": null,
+          "raw_variations": [
+            "RPG Maker 2000"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Maker MV",
+          "description": null,
+          "raw_variations": [
+            "RPGMaker MV",
+            "RPG Maker MV",
+            "RPGmaker MV",
+            "MV"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Maker MZ",
+          "description": null,
+          "raw_variations": [
+            "RPG Maker MZ"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Maker VX Ace",
+          "description": null,
+          "raw_variations": [
+            "RPG Maker VX Ace"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Maker Lite",
+          "description": null,
+          "raw_variations": [
+            "RPG Maker Lite"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Maker Unite",
+          "description": null,
+          "raw_variations": [
+            "RPG Maker Unite"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Pixel Game Maker MV",
+          "description": null,
+          "raw_variations": [
+            "Pixel Game Maker MV"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG Builder Bakin",
+          "description": null,
+          "raw_variations": [
+            "RPG Builder Bakin",
+            "RPG Bakin"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "PhoneGap",
+          "description": null,
+          "raw_variations": [
+            "PhoneGap",
+            "Phonegap"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "libGDX",
+          "description": null,
+          "raw_variations": [
+            "libGDX",
+            "LibGdx",
+            "Libgdx",
+            "libGdx",
+            "libgdx",
+            "LibGDX",
+            "Ashley ECS",
+            "EnTT"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Defold",
+          "description": null,
+          "raw_variations": [
+            "Defold"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Bevy",
+          "description": null,
+          "raw_variations": [
+            "Bevy"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Raylib",
+          "description": null,
+          "raw_variations": [
+            "Raylib",
+            "raylib",
+            "RayLib"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "rlgl",
+          "description": "Raylib's OpenGL abstraction layer (often mentioned as engine).",
+          "raw_variations": [
+            "rlgl"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "PhysX",
+          "description": null,
+          "raw_variations": [
+            "PhysX",
+            "Nape"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "DarkBASIC",
+          "description": null,
+          "raw_variations": [
+            "DarkBASIC",
+            "DarkBasic"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "THREE.js",
+          "description": null,
+          "raw_variations": [
+            "THREE.js",
+            "Three.js"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "BabylonJS",
+          "description": null,
+          "raw_variations": [
+            "BabylonJS"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "PixiJS",
+          "description": null,
+          "raw_variations": [
+            "Pixi",
+            "PixiJS"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Crafty.js",
+          "description": null,
+          "raw_variations": [
+            "Crafty.js"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Tululoo",
+          "description": null,
+          "raw_variations": [
+            "Tululoo"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Flash",
+          "description": "Adobe Flash / ActionScript as a game platform.",
+          "raw_variations": [
+            "Flash",
+            "Flashpunk",
+            "FlashPunk"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Core",
+          "description": null,
+          "raw_variations": [
+            "Core"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "LWJGL",
+          "description": null,
+          "raw_variations": [
+            "LWJGL"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Slick2D",
+          "description": null,
+          "raw_variations": [
+            "Slick",
+            "Slick2D"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "AndEngine",
+          "description": null,
+          "raw_variations": [
+            "AndEngine",
+            "Andengine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Java2D",
+          "description": null,
+          "raw_variations": [
+            "Java2D",
+            "Swing"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Pyglet",
+          "description": null,
+          "raw_variations": [
+            "Pyglet"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "rpgboss",
+          "description": null,
+          "raw_variations": [
+            "rpgboss"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Ogre3D",
+          "description": null,
+          "raw_variations": [
+            "Ogre3D",
+            "Ogre3d",
+            "OGRE"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Irrlicht",
+          "description": null,
+          "raw_variations": [
+            "Irrlicht"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Horde3D",
+          "description": null,
+          "raw_variations": [
+            "Horde3d"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RenPy",
+          "description": null,
+          "raw_variations": [
+            "RenPy",
+            "Renpy",
+            "Ren'py",
+            "Ren'Py",
+            "Ren-Py"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Love2D",
+          "description": null,
+          "raw_variations": [
+            "LÖVE",
+            "Love2d",
+            "LÖVE2D",
+            "Löve2d",
+            "LOVE",
+            "Löve2D",
+            "Löve 2D",
+            "L\u0000\u0000VE",
+            "L\u0000\u0000VE2D",
+            "Love",
+            "L\u0006VE",
+            "L\u0006VE2D",
+            "L\u0006ve",
+            "L\u0000\u0000ve",
+            "Löve"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "HaxeFlixel",
+          "description": null,
+          "raw_variations": [
+            "HaxeFlixel",
+            "Flixel",
+            "Haxeflixel",
+            "Haxe/Flixel"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "OpenFL",
+          "description": null,
+          "raw_variations": [
+            "OpenFL",
+            "Haxe/OpenFL"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Heaps",
+          "description": null,
+          "raw_variations": [
+            "Heaps",
+            "Kha"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "HaxePunk",
+          "description": null,
+          "raw_variations": [
+            "HaxePunk"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Flax Engine",
+          "description": null,
+          "raw_variations": [
+            "Flax",
+            "Flax Engine",
+            "Stride3D"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Roblox Studio",
+          "description": null,
+          "raw_variations": [
+            "Roblox Studio",
+            "Roblox"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "PICO-8",
+          "description": null,
+          "raw_variations": [
+            "PICO-8",
+            "Pico-8",
+            "Pico8"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "PlayCanvas",
+          "description": null,
+          "raw_variations": [
+            "PlayCanvas",
+            "Playcanvas"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Torque 2D",
+          "description": null,
+          "raw_variations": [
+            "Torque 2D"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Torque 3D",
+          "description": null,
+          "raw_variations": [
+            "Torque3D",
+            "Torque 3D",
+            "Torque3d"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Torque",
+          "description": "Torque engine without version.",
+          "raw_variations": [
+            "Torque"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Cocos2d",
+          "description": "Generic Cocos2d engine (version unknown).",
+          "raw_variations": [
+            "Cocos2D",
+            "Cocos2d",
+            "Cocos2d-x"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Cocos2d-x",
+          "description": null,
+          "raw_variations": [
+            "cocos2d-x",
+            "Cocos2dx",
+            "Cocos2D-x",
+            "Cocos2d-x",
+            "Cocos2D-X"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Cocos Creator",
+          "description": null,
+          "raw_variations": [
+            "Cocos Creator"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Blender Game Engine",
+          "description": null,
+          "raw_variations": [
+            "Blender Game Engine",
+            "BGE",
+            "BDX"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "bgfx",
+          "description": null,
+          "raw_variations": [
+            "bgfx",
+            "BGFX"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "SFML",
+          "description": null,
+          "raw_variations": [
+            "SFML",
+            "SFML/SDL/Allegro"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Allegro",
+          "description": null,
+          "raw_variations": [
+            "Allegro"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Allegro 4",
+          "description": null,
+          "raw_variations": [
+            "Allegro4"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Vulkan",
+          "description": null,
+          "raw_variations": [
+            "Vulkan"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "SDL",
+          "description": null,
+          "raw_variations": [
+            "SDL",
+            "SDL2"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "PyGame",
+          "description": null,
+          "raw_variations": [
+            "PyGame",
+            "Pygame"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Scratch",
+          "description": null,
+          "raw_variations": [
+            "Scratch"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "GDevelop",
+          "description": null,
+          "raw_variations": [
+            "GDevelop",
+            "Gdevelop"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Clickteam Fusion",
+          "description": null,
+          "raw_variations": [
+            "ClickTeam Fusion",
+            "Clickteam Fusion",
+            "Fusion 2.5",
+            "Multimedia Fusion",
+            "Clickfusion",
+            "ClickTeam 2.5"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Multimedia Fusion 2",
+          "description": null,
+          "raw_variations": [
+            "MMF2"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "GameSalad",
+          "description": null,
+          "raw_variations": [
+            "GameSalad",
+            "Gamesalad"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Stride",
+          "description": null,
+          "raw_variations": [
+            "Stride",
+            "Xenko"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Armory3D",
+          "description": null,
+          "raw_variations": [
+            "Armory3D",
+            "Armory 3D"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Wave Engine",
+          "description": null,
+          "raw_variations": [
+            "Wave Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Solar2D",
+          "description": null,
+          "raw_variations": [
+            "Solar2D"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Corona SDK",
+          "description": null,
+          "raw_variations": [
+            "Corona SDK",
+            "CoronaSDK",
+            "Corona"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Gideros",
+          "description": null,
+          "raw_variations": [
+            "Gideros"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Marmalade",
+          "description": null,
+          "raw_variations": [
+            "Marmalade"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "ImpactJS",
+          "description": null,
+          "raw_variations": [
+            "ImpactJS"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Duality",
+          "description": null,
+          "raw_variations": [
+            "Duality"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Blitz3D",
+          "description": null,
+          "raw_variations": [
+            "Blitz3D",
+            "BlitzPlus"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "JMonkeyEngine",
+          "description": null,
+          "raw_variations": [
+            "JMonkeyEngine",
+            "jMonkeyEngine",
+            "JMonkey"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "FlatRedBall",
+          "description": null,
+          "raw_variations": [
+            "FlatRedBall"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "LittleJS",
+          "description": null,
+          "raw_variations": [
+            "LittleJS"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Esenthel",
+          "description": null,
+          "raw_variations": [
+            "Esenthel"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Creation Kit",
+          "description": null,
+          "raw_variations": [
+            "Creation Kit"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Pixel Game Engine",
+          "description": null,
+          "raw_variations": [
+            "Pixel Game Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Ultra Engine",
+          "description": null,
+          "raw_variations": [
+            "Ultra Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Bonnie Engine",
+          "description": null,
+          "raw_variations": [
+            "Bonnie Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Otter2D",
+          "description": null,
+          "raw_variations": [
+            "Otter2D"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Adventure Game Studio",
+          "description": null,
+          "raw_variations": [
+            "Adventure Game Studio",
+            "AGS"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "DragonRuby",
+          "description": null,
+          "raw_variations": [
+            "DragonRuby"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Eden Engine",
+          "description": null,
+          "raw_variations": [
+            "Eden Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Web Stack",
+          "description": "General web technologies (HTML5, custom JS).",
+          "raw_variations": [
+            "Web Stack",
+            "Custom JS Engine",
+            "React + TS",
+            "HTML5",
+            "Custom HTML5",
+            "JS + Canvas",
+            "HTML5 Canvas",
+            "HTML Canvas",
+            "TypeScript",
+            "Ebitengine",
+            "Flame",
+            "MelonJS",
+            "threlte",
+            "HTML/Web",
+            "ElectronJS"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "WinForms",
+          "description": null,
+          "raw_variations": [
+            "WinForms"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Nu Game Engine",
+          "description": null,
+          "raw_variations": [
+            "Nu Game Engine",
+            "Nu"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Bitty",
+          "description": "Probably a typo for Bitsy? Keeping as separate if it's an engine.",
+          "raw_variations": [
+            "Bitsy"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Polycode",
+          "description": null,
+          "raw_variations": [
+            "Polycode"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "O3DE",
+          "description": null,
+          "raw_variations": [
+            "O3DE",
+            "Open3DEngine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Shiva3D",
+          "description": null,
+          "raw_variations": [
+            "Shiva3D"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "S&Box",
+          "description": null,
+          "raw_variations": [
+            "S&Box",
+            "S&box"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Korge",
+          "description": null,
+          "raw_variations": [
+            "Korge"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Dash",
+          "description": null,
+          "raw_variations": [
+            "Dash"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "PureBasic",
+          "description": null,
+          "raw_variations": [
+            "PureBasic"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Electron",
+          "description": null,
+          "raw_variations": [
+            "Electron"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Project Anarchy",
+          "description": null,
+          "raw_variations": [
+            "Project Anarchy"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Machina Engine",
+          "description": null,
+          "raw_variations": [
+            "Machina Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "QFusion",
+          "description": null,
+          "raw_variations": [
+            "QFusion"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Doom Engine",
+          "description": null,
+          "raw_variations": [
+            "Doom Engine",
+            "Gold Source"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Tellusim",
+          "description": null,
+          "raw_variations": [
+            "Tellusim"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RPG In A Box",
+          "description": null,
+          "raw_variations": [
+            "RPG In A Box"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Unigine",
+          "description": null,
+          "raw_variations": [
+            "Unigine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Kivy",
+          "description": null,
+          "raw_variations": [
+            "Kivy"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "SRPG Studio",
+          "description": null,
+          "raw_variations": [
+            "SRPG Studio"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Ink",
+          "description": null,
+          "raw_variations": [
+            "Ink"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Twine",
+          "description": null,
+          "raw_variations": [
+            "Twine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Konva",
+          "description": null,
+          "raw_variations": [
+            "Konva"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Harfang",
+          "description": null,
+          "raw_variations": [
+            "Harfang"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "PlayFab",
+          "description": null,
+          "raw_variations": [
+            "PlayFab"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "RE Engine",
+          "description": null,
+          "raw_variations": [
+            "RE Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Luminous Engine",
+          "description": null,
+          "raw_variations": [
+            "Luminous Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Source Engine",
+          "description": null,
+          "raw_variations": [
+            "Source Engine",
+            "Source",
+            "Source 2"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Lumberyard",
+          "description": null,
+          "raw_variations": [
+            "Lumberyard",
+            "Amazon Lumberyard"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Stingray",
+          "description": null,
+          "raw_variations": [
+            "Stingray"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Decima",
+          "description": null,
+          "raw_variations": [
+            "Decima"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Frostbite",
+          "description": null,
+          "raw_variations": [
+            "Frostbite"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Redengine",
+          "description": null,
+          "raw_variations": [
+            "Redengine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Multiple Engines",
+          "description": "Post mentions multiple engines without distinguishing.",
+          "raw_variations": [
+            "Unity, Unreal",
+            "Unity/GameMaker",
+            "Unity/Unreal",
+            "RPGMaker, Game Maker",
+            "Decima Engine, Red Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Unknown",
+          "description": "No engine specified or clearly not an engine.",
+          "raw_variations": [
+            "",
+            "3D Engines",
+            "C++ OpenGL",
+            "OpenGL",
+            "DirectX",
+            "Entity-Component System",
+            "GDI+",
+            "GWT",
+            "Flare",
+            "libtcod",
+            "General",
+            "JavaScript",
+            "D",
+            "Rust",
+            "None",
+            "GIMP",
+            "Midjourney",
+            "C++",
+            "In-house Engine",
+            "Custom Engine",
+            "Batch",
+            "3DO Development Kit",
+            "AppleScript",
+            "Futile",
+            "FlashDevelop",
+            "AS3",
+            "C++",
+            "Custom Engine (LWJGL)",
+            "Java-based engines",
+            "Lua-based engines",
+            "Java/LWJGL",
+            "Java",
+            "PuzzleScript",
+            "Visual Scripting",
+            "Box2D",
+            "ImGUI",
+            "DirectX 9",
+            "DirectX9",
+            "ORK Framework",
+            "Custom ECS Library",
+            "Custom ECS Engine",
+            "NoCode",
+            "Max2D",
+            "Visual Novel Maker",
+            "PixelMaker MV",
+            "Turbulenz",
+            "GZDoom",
+            "Gameplay"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Other Engines",
+          "description": "Specific engines not large enough for a dedicated category.",
+          "raw_variations": [
+            "EF-12",
+            "Flowlab",
+            "OpenTK",
+            "Moai",
+            "OpenRA",
+            "DearPyGui",
+            "Alice",
+            "ImpactJS",
+            "Clayxels",
+            "Processing",
+            "JavaScript/HTML5",
+            "Python",
+            "Corona SDK",
+            "Quake",
+            "Bethesda Engine",
+            "Anvil",
+            "Nintendo 64 SDK",
+            "HyperCard",
+            "Urho3D",
+            "PS Mobile",
+            "Paradox",
+            "Entitas",
+            "Castle Game Engine",
+            "GB Studio",
+            "Dreams",
+            "Buildbox",
+            "Wurfel Engine",
+            "Bitsquid",
+            "Panda3D",
+            "Solarus",
+            "RuneTek",
+            "Quake 2",
+            "StarCraft II Galaxy Editor",
+            "modd.io",
+            "Fable",
+            "FUGE",
+            "WOLF RPG Editor",
+            "Visionaire Studio",
+            "Intersect",
+            "NeoAxis",
+            "Yahaha",
+            "AnKi",
+            "Eko",
+            "Game Salad",
+            "Qt",
+            "Node.js",
+            "RAGE",
+            "Futile",
+            "Handmade Hero",
+            "engine001",
+            "GameGuru Max",
+            "Enigma",
+            "Ejecta",
+            "Satin",
+            "Game Character Hub",
+            "Farseer",
+            "Hero Engine",
+            "Custom C++ Engine",
+            "tinysound",
+            "Atomic",
+            "Bladecoder",
+            "B4A",
+            "Articy:Draft",
+            "Vision",
+            "Flutter",
+            "C#",
+            "Overlap2D",
+            "Flash AS3",
+            "Lua",
+            "Commercial Engines",
+            "Panda3d",
+            "BennuGD",
+            "Flambe",
+            "DCS",
+            "IOLITE",
+            "FES",
+            "AGF",
+            "AppGameKit",
+            "CopperCube",
+            "Proprietary Engine",
+            "MechCommander 2 Engine"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "UPBGE",
+          "description": "Uchronia Project Blender Game Engine.",
+          "raw_variations": [
+            "UPBGE"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Haxe",
+          "description": "Haxe-based engines.",
+          "raw_variations": [
+            "Haxe",
+            "HaxeFlixel",
+            "Flixel",
+            "Haxeflixel",
+            "OpenFL",
+            "Haxe/OpenFL",
+            "Heaps",
+            "HaxePunk",
+            "Haxe/Flambe"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Cocos",
+          "description": "Cocos family of engines.",
+          "raw_variations": [
+            "Cocos2D",
+            "Cocos2d",
+            "cocos2d-x",
+            "Cocos2dx",
+            "Cocos2D-x",
+            "Cocos Creator",
+            "Cocos"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "SpriteKit",
+          "description": "Apple's SpriteKit framework.",
+          "raw_variations": [
+            "SpriteKit",
+            "Sprite Kit"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Bitsy",
+          "description": "Probably a typo for Bitsy? Keeping as separate if it's an engine.",
+          "raw_variations": [
+            "Bitsy",
+            "Bitty"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "idTech",
+          "description": "id Software engines.",
+          "raw_variations": [
+            "idTech",
+            "IDTech2",
+            "id Tech",
+            "id Tech 4"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "NovelStudio",
+          "description": null,
+          "raw_variations": [
+            "NovelStudio"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Cascadeur",
+          "description": "Animation software often used for game dev.",
+          "raw_variations": [
+            "Cascadeur"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Platform SDK",
+          "description": "Native platform development kits.",
+          "raw_variations": [
+            "iOS SDK",
+            "Android SDK/NDK",
+            "Android NDK"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Proprietary",
+          "description": "Custom or internal engine.",
+          "raw_variations": [
+            "Proprietary"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Buildbox",
+          "description": null,
+          "raw_variations": [
+            "Buildbox"
+          ],
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "field_path": "project_type",
+      "categories": [
+        {
+          "normalized_value": "Unknown",
+          "description": "No project type specified.",
+          "raw_variations": [
+            "",
+            "Hobby",
+            "Professional Software",
+            "Commercial Game",
+            "Open Source",
+            "Medium-large project",
+            "Small projects",
+            "F2P",
+            "PC Console",
+            "3D AA/AAA",
+            "3D AAA",
+            "Procedural Generation",
+            "PC",
+            "AAA",
+            "Large Scale",
+            "Small scale",
+            "Visualization",
+            "Multi-platform",
+            "Unknown Automation",
+            "Small",
+            "Simple games",
+            "Advanced",
+            "Small games and prototypes",
+            "Small to medium games",
+            "Simple Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Unspecified",
+          "description": "General 2D project without a defined genre.",
+          "raw_variations": [
+            "2D",
+            "2D ",
+            "2D \"\"",
+            "2D Simple Games",
+            "2D Pixelart",
+            "2D Pixel Art",
+            "2D Sprite-based",
+            "2D 8-bit style",
+            "2D UI-oriented",
+            "2D Mini-games",
+            "2D Sci-Fi",
+            "2D WebGL Game Jam",
+            "2D Cross-platform",
+            "2D Gamejam",
+            "2D Android",
+            "2D Web App",
+            "2D Pixelated",
+            "2D Art",
+            "2D Animation",
+            "2D Personal",
+            "2D Pixel",
+            "2D Multiplayer",
+            "2D Small projects",
+            "2D Simple Game",
+            "2D Performance Test",
+            "2D Small",
+            "2D Graphics",
+            "2D Minimalistic",
+            "2D Sprite",
+            "2D Minigame",
+            "2D Tilemap",
+            "2D Medium Scale",
+            "2D Small Project",
+            "2D Small Scale"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Action",
+          "description": null,
+          "raw_variations": [
+            "2D Action",
+            "2D Action Shooter",
+            "2D SHMUP",
+            "2D Side-scrolling adventure",
+            "2D Action-Adventure",
+            "2D Action-Adventure RPG",
+            "2D Racer",
+            "2D Survivor",
+            "2D Shooter",
+            "2D Space Invader",
+            "2D Arkanoid/Block Breaker",
+            "2D Action RPG",
+            "2D Action Adventure",
+            "2D Top-down shooter",
+            "2D Racing",
+            "2D Action/Shmup",
+            "2D Arcade Space Shooter",
+            "2D Side Scroller",
+            "2D Battle Arena",
+            "2D Action Platformer",
+            "2D Action/Puzzle",
+            "2D Platformer Shooter",
+            "2D Sidescrolling Shooter",
+            "2D Space Shooter",
+            "2D Arena Scroller",
+            "2D Arcade-style shooting survival",
+            "2D Card/Action",
+            "2D Beat-em-up"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Platformer",
+          "description": null,
+          "raw_variations": [
+            "2D Platformer",
+            "2D Isometric/Platformer/Puzzle",
+            "2D Platformer, 2D RPG, Arcade Shooter",
+            "2D Match-3/Platformer",
+            "2D Platformer/Visual Novel",
+            "2D Platformer/RPG/Tower Defense",
+            "2D SNES-style",
+            "2D/3D Platformer",
+            "2D platformer",
+            "2D Puzzle/Platformer",
+            "2D Arcade Platformer",
+            "2D Platformer/Top-down",
+            "2D Sidescroller",
+            "2D Puzzle Platformer",
+            "2D Physics Platformer",
+            "2D Platformer/Space Shooter",
+            "2D Platformer/Puzzle",
+            "2D Platformer Puzzler",
+            "2D Metroid-like",
+            "2D Platformer RPG",
+            "2D sidescroller",
+            "2D Side-scroller",
+            "2D Action Adventure Platformer",
+            "2D Platformer/Mobile/Low Poly"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|RPG",
+          "description": null,
+          "raw_variations": [
+            "2D RPG",
+            "2D Roguelike RPG",
+            "2D ORPG",
+            "RPG",
+            "2D jRPG",
+            "2D Educational RPG",
+            "2D Point-and-Click RPG",
+            "2D SRPG",
+            "2D Visual Novel/JRPG",
+            "2D Story-driven",
+            "2D Roguelike/JRPG",
+            "Turn-based RPG",
+            "2D Strategy RPG",
+            "2D RPG/Strategy",
+            "2D RPG/Bullet Hell",
+            "2D TRPG",
+            "2D Tactical RPG",
+            "2D Isometric CRPG",
+            "2D Isometric RPG",
+            "2D RPG/Simulation",
+            "2D Puzzle RPG",
+            "2D RPG Tower Defense",
+            "2D ARPG",
+            "Isometric RPG",
+            "Indie RPG",
+            "2D RPG/Management",
+            "2D Card Game/ARPG",
+            "2D Zelda-style"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|JRPG",
+          "description": null,
+          "raw_variations": [
+            "2D JRPG"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Puzzle",
+          "description": null,
+          "raw_variations": [
+            "2D Puzzle",
+            "2D Puzzle/Endless Runner/Visual Novel",
+            "2D Board Game",
+            "2D Puzzle/Arcade",
+            "2D Menu-based",
+            "2D Word Game",
+            "2D Match 3",
+            "2D Puzzle/Shooter",
+            "2D Breakout",
+            "2D Puzzler/Action"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Card Game",
+          "description": null,
+          "raw_variations": [
+            "2D Card Game",
+            "2D Roguelike Deckbuilder",
+            "2D Deckbuilding Dungeon Rogue-Lite",
+            "2D Card/RPG/Text-based",
+            "2D Turn-based Card Game",
+            "2D Card Battler",
+            "Online Card Game",
+            "Mobile Card Game",
+            "2D CCG",
+            "3D TCG",
+            "CCG",
+            "2D TCG/CCG",
+            "2D Trading Card Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Visual Novel",
+          "description": null,
+          "raw_variations": [
+            "2D Visual Novel",
+            "2D Interactive Fiction",
+            "2D Interactive Novel",
+            "2D Text/Menu-based",
+            "2D Narrative",
+            "2D FMV",
+            "2D Chess Visual Novel",
+            "2D/3D Visual Novel",
+            "2D Visual Novel/Turn-based",
+            "3D Visual Novel Rhythm Game",
+            "2D Point-and-click",
+            "2D Visual Novel/RPG",
+            "2D Interactive Narrative",
+            "2D Narrative Adventure"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|MMORPG",
+          "description": null,
+          "raw_variations": [
+            "2D MMORPG",
+            "2D MMO",
+            "2D MMO/RPG",
+            "2D MMO Sandbox"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Mobile",
+          "description": "2D projects explicitly targeting mobile platforms.",
+          "raw_variations": [
+            "2D Mobile",
+            "Mobile 2D",
+            "2D Mobile/Browser",
+            "Mobile Web 2D",
+            "2D Mobile App",
+            "2D App-like Game",
+            "2D Browser/Mobile",
+            "2D Mobile/Web",
+            "2D Mobile Idle",
+            "2D Mobile Game",
+            "2D Mobile/Desktop",
+            "2D Mobile Point and Click"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Browser Games",
+          "description": null,
+          "raw_variations": [
+            "2D Browser Games",
+            "Web-based",
+            "2D WebGL",
+            "Web HTML5",
+            "2D IO",
+            "2D Browser",
+            "2D Web",
+            "WebGL",
+            "PC Web"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Unspecified",
+          "description": "General 3D project without a defined genre.",
+          "raw_variations": [
+            "3D",
+            "3D ",
+            "Small Projects",
+            "3D Small Projects",
+            "3D General",
+            "3D Photorealistic",
+            "3D Multi-perspective",
+            "3D Business Apps",
+            "3D Gamejam",
+            "3D Code-heavy",
+            "3D Interactive",
+            "3D Advanced",
+            "3D Game Jam",
+            "3D Minigame",
+            "3D casual",
+            "3D Cinematic",
+            "3D Game",
+            "3D Large-scale",
+            "3D Environment",
+            "3D Multiplatform",
+            "3D \"\"",
+            "3D Single-player",
+            "Singleplayer",
+            "3D Engine",
+            "3D Controller",
+            "3D Large Scale",
+            "3D Character",
+            "3D Simple",
+            "3D Experiment",
+            "3D Minimalist",
+            "3D Small Project",
+            "3D Prototyping",
+            "3D PC Game",
+            "3D Simple Game",
+            "3D Independent",
+            "3D \"Simple\" Gameplay",
+            "3D Mini Game",
+            "3D Persistent",
+            "3D Mini Games"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Shooter|FPS",
+          "description": "First‑person shooter / first‑person perspective.",
+          "raw_variations": [
+            "3D First Person",
+            "3D FPS",
+            "3D Survival Shooter",
+            "3D Space Shooter",
+            "3D Horror FPS",
+            "3D Co-op Shooter",
+            "3D Top-down shooter",
+            "3D Horror/Voxel Shooter",
+            "First Person",
+            "3D MMOFPS",
+            "3D First-Person",
+            "3D Multiplayer FPS",
+            "3D FPS RPG",
+            "3D FPS/Platformer",
+            "3D FPS Horror",
+            "3D First Person Parkour"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Shooter|TPS",
+          "description": "Third‑person shooter.",
+          "raw_variations": [
+            "3D Third Person Shooter",
+            "3D Multiplayer Battle",
+            "3D Arcade Shooter",
+            "3D Action/Shooter",
+            "3D Arcade",
+            "3D 3rd Person",
+            "3D Third Person"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Adventure",
+          "description": null,
+          "raw_variations": [
+            "3D Adventure",
+            "3D Interactive Story",
+            "3D Narrative Adventure",
+            "3D Action-Adventure",
+            "3D Atmospheric",
+            "3D Isometric Adventure",
+            "3D Adventure/Racing",
+            "3D Horror Walking Sim",
+            "3D Escape Room",
+            "3D Action-Adventure/Strategy",
+            "Adventure",
+            "3D Racing/Adventure",
+            "3D Space Sim/Fighting",
+            "3D Exploration/Adventure",
+            "3D Survival Horror Shooter / Adventure"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Strategy",
+          "description": "Real‑time or unspecified strategy.",
+          "raw_variations": [
+            "3D Strategy",
+            "3D City-builder",
+            "3D God Game",
+            "3D Open World RTS",
+            "3D Turn-based Management",
+            "3D Map Editor",
+            "3D Procedural Map Editor",
+            "3D Grand Strategy",
+            "3D Factory Simulation",
+            "3D Tactics",
+            "3D Multi-genre",
+            "Strategy",
+            "3D RTS/Management",
+            "RTS",
+            "3D Simulation/Strategy",
+            "3D City Builder/Sim",
+            "3D City Builder",
+            "3D Management Simulation",
+            "Turn-based Strategy",
+            "Turn-based",
+            "Isometric RTS",
+            "3D Strategy/Exploration",
+            "3D Tycoon",
+            "3D RTT",
+            "3D Business Simulation"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Strategy|Turn-based",
+          "description": null,
+          "raw_variations": [
+            "3D Turn Based Strategy",
+            "Unknown Turn-based",
+            "3D Turn-based Tactical RPG",
+            "3D Turn-based",
+            "3D Tactics Roguelike Deckbuilder"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Card Game",
+          "description": "Turn‑based card/strategy games in 3D (e.g., card battlers).",
+          "raw_variations": [
+            "3D Turn-based/Strategy/Card Game",
+            "2.5D CCG",
+            "Complex Card Game",
+            "3D Card Game",
+            "Multiplayer Card Game",
+            "3D Mobile Card Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|VR",
+          "description": null,
+          "raw_variations": [
+            "3D VR",
+            "XR",
+            "Mobile VR",
+            "3D VR Escape Room",
+            "3D Augmented Reality",
+            "VR",
+            "3D VR Simulation",
+            "3D XR Educational Simulation",
+            "3D WebXR",
+            "3D VR/Horror",
+            "VR Research"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Indie",
+          "description": "General 3D indie projects (no specific genre).",
+          "raw_variations": [
+            "3D Indie",
+            "3D indie game",
+            "2D/3D Indie",
+            "Indie game",
+            "3D Commercial Game",
+            "PC Indie"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2.5D|RPG",
+          "description": "Isometric or 2.5D RPGs.",
+          "raw_variations": [
+            "2.5D RPG",
+            "2.5D Platformer",
+            "3D cRPG",
+            "3D Open-world RPG",
+            "3D Isometric",
+            "2.5D RTS/RPG",
+            "2.5D MMO Strategy",
+            "2.5D Isometric",
+            "2.5D HD-2D",
+            "3D Isometric RPG"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Mixed|2D/3D",
+          "description": "Projects that combine 2D and 3D elements.",
+          "raw_variations": [
+            "2D 3D",
+            "2D 3D VR",
+            "2D/3D Hybrid",
+            "2D/3D Interactive",
+            "2D Mobile/PC",
+            "2D/3D Web/Small",
+            "2D/3D Puzzle Horror",
+            "2D/3D Prototype",
+            "2D 3D Mobile Console",
+            "2D/3D Management/Visual Novel",
+            "2D/3D Synthesizer",
+            "2D/3D",
+            "2D Platformer / 3D Action RPG",
+            "2D 3D Mobile",
+            "2D 3D RPG",
+            "2D/3D Prototyping",
+            "2D/3D Management Simulation",
+            "3D 2D",
+            "2D 3D Simulation",
+            "2D/3D Tycoon",
+            "2D/3D Mobile/Web",
+            "3D 2D-Hybrid",
+            "2D/3D Retro",
+            "2D/3D Framework",
+            "2D/3D GUI-oriented",
+            "Mixed 2D/3D",
+            "2D/3D Strategy",
+            "2D/3D Adventure",
+            "2D/3D Web",
+            "2D 3D Strategy/Card"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Audio|Games",
+          "description": "Games designed primarily for audio‑based interaction.",
+          "raw_variations": [
+            "Audio games",
+            "3D Audio"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Platform|Mobile",
+          "description": "Mobile games without a specified dimension/genre.",
+          "raw_variations": [
+            "Mobile",
+            "3D Mobile Casual",
+            "3D Mobile",
+            "Mobile Hobby",
+            "Mobile Android",
+            "Mobile Steam",
+            "Mobile HyperCasualGames",
+            "Mobile Free-to-play",
+            "Mobile F2P",
+            "Mobile Rhythm",
+            "Desktop Mobile",
+            "Android Game",
+            "iOS",
+            "Mobile Racing",
+            "Mobile Games",
+            "Indie Mobile",
+            "Mobile Console PC",
+            "Mobile Tablet",
+            "Mobile Indie",
+            "Mobile 3D",
+            "Mobile Adventure"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Simulation|Strategy",
+          "description": "Simulation/strategy hybrid; dimension not specified.",
+          "raw_variations": [
+            "Simulation Strategy",
+            "2D Management/Social",
+            "2D Tycoon/Simulator",
+            "2D Sports Simulation",
+            "2D Procedural Generation",
+            "2D Rogue-like",
+            "2D Tactical Turn Based Strategy",
+            "2D Multiplayer Turn-Based",
+            "2D Turn-based",
+            "2D Clicker/Management",
+            "2D Tycoon Simulation",
+            "Simulation Tycoon",
+            "3D Tycoon/Sim",
+            "Tycoon",
+            "2D Simulation/Strategy",
+            "Colony Management Survival",
+            "2D Life Simulation",
+            "Simulation Management",
+            "2D Strategy Simulation"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Simulation/Roguelike",
+          "description": null,
+          "raw_variations": [
+            "2D Simulation/Roguelike",
+            "2D Space-sim",
+            "2D Virtual Pet",
+            "2D Top-Down",
+            "2D Tile-based",
+            "2D Idle",
+            "2D Base-building",
+            "2D Auto-chess",
+            "2D Procedural",
+            "2D Rogue-like Shooter Tower Defense",
+            "2D Autobattler Roguelike",
+            "2D Strategy Roguelite",
+            "2D Rogue-lite",
+            "2D Colonisation",
+            "2D Simulation",
+            "2D Text-based Rogue-like",
+            "2D Text-based/Simulation"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Coop",
+          "description": null,
+          "raw_variations": [
+            "3D Coop",
+            "Co-op",
+            "3D Cooperative Starship Simulator"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Walkthrough",
+          "description": null,
+          "raw_variations": [
+            "3D Walkthrough",
+            "3D Walking Simulator",
+            "3D Arch Viz",
+            "3D Archviz",
+            "3D Environment Art",
+            "3D Walking Sim"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Simulation",
+          "description": null,
+          "raw_variations": [
+            "3D Ocean Simulation",
+            "3D Physics-intensive",
+            "3D Space-based",
+            "3D Voxel Renderer",
+            "3D Simulator",
+            "Particle Simulation",
+            "3D Simulation/Builder",
+            "3D Survival-Sandbox",
+            "3D Dogfight",
+            "3D Rhythm",
+            "3D Flight Simulator",
+            "3D Flight Sim",
+            "3D Management",
+            "3D Space Sim",
+            "3D Physics Game",
+            "3D Landscape",
+            "3D Sandbox",
+            "3D Infinite Generation",
+            "3D Racing Simulator",
+            "3D Factory",
+            "3D Sandbox/Automation",
+            "Simulation RTS",
+            "Physics Simulation",
+            "3D Flight Simulation",
+            "3D Driving",
+            "3D Exploration",
+            "3D Modular Building",
+            "3D City Sim",
+            "3D Physics",
+            "3D Simulation",
+            "3D Space Simulation",
+            "Physical Simulation",
+            "3D Simulation/Creative",
+            "3D Mech Sim"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Action/RPG",
+          "description": null,
+          "raw_variations": [
+            "3D Action/RPG",
+            "3D ARPG",
+            "3D Action-RPG/Strategy",
+            "3D FPS/RPG",
+            "3D JRPG",
+            "3D Action RPG",
+            "3D Space RPG",
+            "3D Souls-like/Metroidvania",
+            "3D Hack & Slash"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Platformer",
+          "description": null,
+          "raw_variations": [
+            "3D Platformer",
+            "3D Sidescroller",
+            "3D Infinite Runner",
+            "3D Endless Runner",
+            "3D Maze Runner",
+            "3D Metroidvania",
+            "3D Side Scroller",
+            "3D Action Platformer"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Horror",
+          "description": null,
+          "raw_variations": [
+            "3D Horror-Survival",
+            "3D Survival Horror",
+            "3D Horror/Atmospheric",
+            "3D Sci-fi Horror",
+            "3D Online Survival",
+            "3D Sci-fi survival horror"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|VFX",
+          "description": null,
+          "raw_variations": [
+            "3D VFX/VJing",
+            "3D GUI",
+            "3D Indoor",
+            "3D VFX",
+            "3D Rendering",
+            "3D Real-time Graphics",
+            "3D Terrain Renderer",
+            "3D Modeling Tool",
+            "3D Path Tracer",
+            "Technical Art",
+            "Graphics Programming"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "UI|Design",
+          "description": null,
+          "raw_variations": [
+            "UI Design",
+            "UI driven graphical game",
+            "2D UI-centric",
+            "2D Menu-driven",
+            "UI heavy",
+            "2D UI-intensive",
+            "2D Tooling",
+            "Level Design",
+            "UI",
+            "UI Tool"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Rhythm",
+          "description": null,
+          "raw_variations": [
+            "2D Rhythm",
+            "2D Rhythm Game",
+            "2D Piano Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Other|Artistic",
+          "description": null,
+          "raw_variations": [
+            "Surrealistic",
+            "Metaverse Platform",
+            "Console PC",
+            "Procedural",
+            "PC Console Port",
+            "Web Multiplayer",
+            "3D Modding",
+            "3D Sci-fi",
+            "3D Destructible Terrain",
+            "3D Monster Taming",
+            "3D City map",
+            "3D Fighting",
+            "3D Puzzle",
+            "Various Genres",
+            "School Project",
+            "AAA Game",
+            "Tech demo",
+            "Console",
+            "3D Console",
+            "AAA/AA",
+            "Commercial Product"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Shooter",
+          "description": null,
+          "raw_variations": [
+            "3D Survival/Shooter",
+            "3D Arena Shooter",
+            "3D FPS/TPS",
+            "3D First Person Fighting",
+            "3D Third-person",
+            "3D Multiplayer Tank Game",
+            "3D Survival-Horror",
+            "3D FPS/Parkour",
+            "3D Arena",
+            "3D FPS MOBA/ARPG",
+            "3D FPS/MMO/RPG",
+            "3D Platformer/FPS",
+            "3D Projectile",
+            "3D Tower Defense",
+            "3D FPS/Platformer/Puzzle",
+            "3D Topdown Shooter",
+            "3D Tactical Shooter",
+            "3D Exploration/FPS",
+            "3D Puzzle Shooter",
+            "3D Tactical Shooter MMO",
+            "3D Stealth FPS / Car Racer",
+            "3D Shooter",
+            "Mobile Multiplayer Shooter",
+            "3D Multiplayer Shooter",
+            "Shooter",
+            "3D Side-scroller/FPS"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Casual",
+          "description": null,
+          "raw_variations": [
+            "3D Hyper Casual",
+            "3D Small Games"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|General",
+          "description": "General 2D projects.",
+          "raw_variations": [
+            "2D Server-side",
+            "2D Collectathon",
+            "2D Adventure",
+            "2D pixel art",
+            "2D Racing/Arcade",
+            "2D 4X",
+            "2D Casual",
+            "2D Isometric",
+            "2D Arena Shooter",
+            "2D Singleplayer",
+            "2D Game",
+            "2D City Builder",
+            "2D MMO RPG",
+            "2D Hack and Slash",
+            "2D Top-down combat",
+            "2D VFX",
+            "2D Quiz",
+            "2D Mystery",
+            "indie game",
+            "2D HTML5",
+            "2D UI-driven",
+            "2D Desktop",
+            "2D Top-down",
+            "2D Jam",
+            "2D Beat 'em up",
+            "2D Zelda-Like",
+            "2D Local Co-op",
+            "2D Birds-eye-view",
+            "2D Tower Defence",
+            "2D Strategy",
+            "2D 4X space game",
+            "2D Horror Point and Click",
+            "2D Turn Based Strategy",
+            "2D Educational",
+            "2D Adventure/Sandbox",
+            "2D Clicker",
+            "2D Grid-based",
+            "2D Space",
+            "2D Low-poly",
+            "2D HD-2D",
+            "2D Small Games",
+            "2D Prototyping",
+            "2D \"",
+            "2D Party Game",
+            "2D Typing Game",
+            "2D Space Game",
+            "2D General",
+            "2D Apps",
+            "2D Top-down/Sidescrolling",
+            "2D 8bit",
+            "2D Games",
+            "2D UI-heavy",
+            "2D Clone",
+            "2D Platformer/Topdown",
+            "2D 2.5D",
+            "2D Narrative RPG",
+            "2D Dress-up",
+            "2D Application",
+            "2D Metroidvania",
+            "2D Story-rich",
+            "2D RPG/Platformer",
+            "2D Fantasy",
+            "2D RTS",
+            "2D Logical",
+            "2D Strategy/Puzzle",
+            "2D Tower Defense",
+            "2D iOS",
+            "2D Roguelite",
+            "2D Mobile Browser",
+            "2D 4x",
+            "2D Shoot-em-up",
+            "2D Physics Puzzle Platformer",
+            "2D Game Jam",
+            "2D Mini-game",
+            "2D RPG/Graphic Novel",
+            "2D Open World",
+            "2D Idle/Browser",
+            "2D Action Platformer/RPG",
+            "2D Small Scope",
+            "2D 8-bit",
+            "2D Tactics RPG",
+            "2D Action-Platformer",
+            "2D Action Roguelike",
+            "2D Life-Simulator",
+            "2D skeletal_animation",
+            "2D Customization-heavy",
+            "2D Strategy/Educational",
+            "2D Walking Sim",
+            "2D Low-spec",
+            "2D Golf",
+            "2D 16bit"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|General",
+          "description": "General 3D projects.",
+          "raw_variations": [
+            "3D Voxel",
+            "3D Open-World",
+            "3D RTS",
+            "3D Observation",
+            "3D Horror",
+            "3D Brawler/RPG/MOBA",
+            "3D Turn-based Strategy",
+            "3D Strategy/Simulation",
+            "3D Medium World",
+            "3D App",
+            "3D VR/AR",
+            "3D NSFW",
+            "3D Maze",
+            "3D Immersive Sim",
+            "Procedural Maze Generator",
+            "3D Amusement Park",
+            "3D Procedural Generation",
+            "3D Forest",
+            "Open-world Swarm",
+            "3D Open-world",
+            "3D Steampunk/Fantasy",
+            "3D AAA-style",
+            "3D Open World MMORPG",
+            "3D Geographic Rendering",
+            "3D Action Adventure",
+            "3D Character Creator",
+            "3D Next-gen",
+            "3D Battle Royale",
+            "3D High-end",
+            "3D 4X",
+            "3D FPP",
+            "3D Board Game",
+            "3D Wrestling",
+            "3D Tool",
+            "3D WW1",
+            "3D Point-and-click",
+            "3D Tile-based",
+            "3D Procedural",
+            "3D Small",
+            "3D Non-procedural",
+            "3D Level Design",
+            "3D Non-VR",
+            "3D Movement",
+            "3D Realistic",
+            "3D PC",
+            "3D War",
+            "3D Skiing Game",
+            "3D High Res",
+            "3D Port",
+            "3D Realistic ProcGen",
+            "3D Open World Shooter",
+            "3D PC/Console",
+            "3D Zelda-like",
+            "3D FPS/TPS/RPG/Puzzle/Narrative",
+            "3D FPS/Adventure",
+            "3D Open World Action RPG",
+            "3D Low-poly",
+            "3D Space",
+            "3D Animation",
+            "3D Pathfinding",
+            "3D Third-Person",
+            "3D Quadruped",
+            "3D Colony Sim",
+            "3D Mobile App",
+            "3D MMORPG",
+            "3D Open World Multiplayer",
+            "3D Casual",
+            "3D Interactive Environment",
+            "3D Real-Time Tactics",
+            "3D Portal",
+            "3D Tool/Game",
+            "3D Tactical Management",
+            "3D Hack-n-slash",
+            "3D Real-time",
+            "3D Platform Fighter",
+            "3D Shooter/RPG",
+            "3D Space Simulator",
+            "3D Arcade Racer",
+            "3D Demo",
+            "3D Small/Less Complex",
+            "3D Multiplayer VR Sports",
+            "3D Shooter/Adventure",
+            "3D AI",
+            "3D Offline",
+            "3D tRPG",
+            "3D Anime",
+            "3D Cutscene",
+            "3D Virtual Events",
+            "3D Multiplayer RPG",
+            "3D Narrative RPG",
+            "3D Multiplayer FPP RPG",
+            "3D Raycasting",
+            "3D Desktop",
+            "3D Character Builder",
+            "3D Marble Game",
+            "3D Tooling",
+            "3D High Fidelity"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Web|Games",
+          "description": null,
+          "raw_variations": [
+            "Web Games",
+            "3D Web",
+            "2D Web Game",
+            "2D HTML",
+            "Webapp",
+            "Mobile Web",
+            "2D Browser Game",
+            "Web Browser",
+            "Web Game",
+            "HTML5",
+            "Web-based Educational Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Multiplayer",
+          "description": null,
+          "raw_variations": [
+            "Multiplayer",
+            "Real-time Multiplayer",
+            "2D Multiplayer Arena",
+            "2D Multiplayer Shooter",
+            "Multiplayer MMO",
+            "3D Online Multiplayer",
+            "Multiplayer Networking"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Commercial",
+          "description": null,
+          "raw_variations": [
+            "Commercial",
+            "free-to-play",
+            "AAA Gameplay",
+            "2D Commercial",
+            "Large-scale",
+            "PC Hack and slash"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2.5D",
+          "description": null,
+          "raw_variations": [
+            "2.5D",
+            "2.5D Turn-based",
+            "2.5D Action-Platformer",
+            "2.5D Game",
+            "2.5D Action",
+            "3D 2.5D",
+            "2.5D Shooter"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Text Adventure",
+          "description": null,
+          "raw_variations": [
+            "Text Adventure"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Mobile|RPG",
+          "description": null,
+          "raw_variations": [
+            "Mobile RPG",
+            "Mobile MMORPG"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Adventure",
+          "description": null,
+          "raw_variations": [
+            "2D Adventure/Visual Novel",
+            "2D Point-and-Click Adventure",
+            "2D Point + Click",
+            "2D Text Adventure",
+            "2D Text-based",
+            "2D Point-and-Click",
+            "2D Zelda-like",
+            "2D Isometric Room Design",
+            "2D Point & Click"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Mobile",
+          "description": null,
+          "raw_variations": [
+            "Mobile Game",
+            "Mobile App",
+            "Mobile Party Game",
+            "Mobile Multiplayer",
+            "Mobile VR/AR",
+            "Mobile 2D/3D",
+            "Mobile/Console/PC"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "General",
+          "description": null,
+          "raw_variations": [
+            "3D High-fidelity",
+            "3D Graphics",
+            "2D Hobby",
+            "Indie Game",
+            "3D Simple Games",
+            "2D Simple",
+            "2D Small Game",
+            "PC Game",
+            "Console Game",
+            "3D Prototype",
+            "Desktop",
+            "Indie",
+            "Small to medium scale games",
+            "2D Indie",
+            "Full game",
+            "Single Player",
+            "Story-driven",
+            "Cross-platform",
+            "Scientific Visualization",
+            "Tooling",
+            "Educational Game",
+            "Complex AI"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Roguelike",
+          "description": null,
+          "raw_variations": [
+            "2D Rogue-Lite",
+            "2D Roguelike",
+            "2D Arcade Roguelite",
+            "Rogue-like",
+            "Roguelike",
+            "3D Roguelike"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Dungeon",
+          "description": null,
+          "raw_variations": [
+            "3D Procedural Dungeon Crawler",
+            "3D Dungeon Crawler"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Online",
+          "description": null,
+          "raw_variations": [
+            "2D Online",
+            "2D io",
+            "Online Multiplayer",
+            "2D Social Media Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Misc",
+          "description": null,
+          "raw_variations": [
+            "2D UI",
+            "2D Co-op",
+            "2D Vpet",
+            "2D City Destruction",
+            "2D Interactive Video",
+            "2D Gacha",
+            "2D Sandbox",
+            "2D Tile Engine",
+            "2D Post-processing",
+            "2D Runner",
+            "2D MOBA",
+            "2D Utility",
+            "2D Snake",
+            "2D Pixel-art",
+            "2D Physics",
+            "2D Tactics",
+            "2D Endless Runner",
+            "2D Survival",
+            "2D UI-heavy game",
+            "2D UI-based",
+            "2D Casino",
+            "2D Arcade/Incremental",
+            "2D Retro Shooter",
+            "2D Auto-Battler",
+            "2D Tower Defense, Top Down Shooter, Platformer, Shmup",
+            "2D Endless Jumper",
+            "2D Drawing Program",
+            "2D Pixel Art in 3D",
+            "2D Run and Gun",
+            "2D Hack'n'slash/Roguelike/Bullet Hell",
+            "2D Run 'n Shoot",
+            "2D Stealth",
+            "2D Hacking Simulation",
+            "2D Cooperative",
+            "2D Driving",
+            "2D Match-3",
+            "2D Dress-Up",
+            "2D Infinite Runner",
+            "2D Game Show",
+            "2D Programming Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Misc",
+          "description": null,
+          "raw_variations": [
+            "3D MOBA",
+            "3D Runner",
+            "3D Open Terrain",
+            "3D Dynamic Content",
+            "3D Indie/Mobile",
+            "3D HTML5",
+            "3D Souls-like",
+            "3D Logic Puzzle",
+            "3D Sports",
+            "3D Off-road/Platformer",
+            "3D Tactical RPG",
+            "3D Low-end",
+            "3D Coin Pusher",
+            "3D Parkour",
+            "3D Battle Arena",
+            "3D Single Player",
+            "3D Character Movement",
+            "3D Idle Clicker",
+            "3D Local Multiplayer",
+            "3D Tactical Dungeon Crawler",
+            "3D Off-road vehicle",
+            "3D Racing",
+            "3D Social Deduction",
+            "3D Climbing Game",
+            "3D Flying",
+            "3D MOBA/Tower Defense",
+            "3D \"cartoon Nintendo 64\" style",
+            "3D Skating"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Web",
+          "description": null,
+          "raw_variations": [
+            "Web Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Dungeon Crawler",
+          "description": null,
+          "raw_variations": [
+            "2D Dungeon Crawler",
+            "2D Dungeon-crawler"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Arcade",
+          "description": null,
+          "raw_variations": [
+            "2D Pinball",
+            "2D Arcade Shooter",
+            "2D Arcade",
+            "2D Shmup",
+            "2D Bullet Hell",
+            "2D Arcade/RTS",
+            "2D Arcade Puzzler",
+            "2D Retro-style 16-bit top-down arcade"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|RPG/FPS",
+          "description": null,
+          "raw_variations": [
+            "3D RPG/FPS",
+            "3D Action/FPS",
+            "3D Combat"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Retro",
+          "description": null,
+          "raw_variations": [
+            "3D Retro-style"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Mobile/PC",
+          "description": null,
+          "raw_variations": [
+            "3D Complex Mobile/PC",
+            "3D Android",
+            "3D Mobile/PC",
+            "3D Console/PC"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Shooter/Coop",
+          "description": null,
+          "raw_variations": [
+            "3D Shooter/Coop",
+            "3D Multiplayer"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Live Service",
+          "description": null,
+          "raw_variations": [
+            "Live Service",
+            "MMO",
+            "2D/3D MMO",
+            "3D PVPVE MMO"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Physics-based",
+          "description": null,
+          "raw_variations": [
+            "Physics-based",
+            "3D Physics-driven",
+            "3D Physics-heavy",
+            "3D Multiplayer Physics"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Modular",
+          "description": null,
+          "raw_variations": [
+            "3D Modular"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Management",
+          "description": null,
+          "raw_variations": [
+            "2D Management Sim",
+            "2D Management",
+            "2D Tycoon",
+            "2D Simulator",
+            "2D Manager",
+            "2D Sports Manager",
+            "2D Farming Sim"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Mobile|Strategy",
+          "description": null,
+          "raw_variations": [
+            "Mobile Strategy"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Interactive",
+          "description": null,
+          "raw_variations": [
+            "2D Interactive Film",
+            "2D Visual Novel Life Sim",
+            "2D Point and Click",
+            "Visual Novel",
+            "2D CYOA",
+            "Text-based Adventure",
+            "2D Interactive Movie"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Art/Edu",
+          "description": null,
+          "raw_variations": [
+            "3D Art",
+            "AR/VR Educational",
+            "3D Architectural Visualization",
+            "3D Architecture",
+            "3D Learning",
+            "3D Educational",
+            "3D Animation/Video",
+            "3D Interactive Art"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Linear",
+          "description": null,
+          "raw_variations": [
+            "3D Linear",
+            "3D Action Rogue-lite",
+            "3D Space/Simulation",
+            "3D God-game",
+            "3D Hobby",
+            "Low-end",
+            "3D Browser"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Turn-based",
+          "description": null,
+          "raw_variations": [
+            "2D Turn-based Tile-map",
+            "2D Action-RPG",
+            "2D Turn-based Strategy",
+            "2D Grid-based Combat"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Other",
+          "description": "Miscellaneous or uncategorized.",
+          "raw_variations": [
+            "UI-heavy",
+            "AR",
+            "Simulation",
+            "Open World",
+            "PC/Console",
+            "Small games",
+            "\"\" \"\"",
+            "2D Survival Horror",
+            "AR/VR Automotive",
+            "Single player",
+            "Stylized",
+            "Graphical",
+            "Small game",
+            "FPS",
+            "RPG Modding",
+            "Mobile game",
+            "Web Mobile",
+            "Board Games",
+            "Non-physics",
+            "Online",
+            "Desktop Trivia Game",
+            "Multiplayer Prototype",
+            "Mobile Cross-platform",
+            "Narrative RPG",
+            "Small-scale",
+            "3D Browser-based games and interactive apps",
+            "Low end hardware game",
+            "Voxel",
+            "2D Raycasting"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Survival",
+          "description": null,
+          "raw_variations": [
+            "3D Survival",
+            "3D Survival/Resource Management",
+            "3D Farming Sim"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Mobile|Multiplatform",
+          "description": null,
+          "raw_variations": [
+            "Mobile / PC / Console",
+            "3D Desktop/Console",
+            "2D/3D Console",
+            "2D PC",
+            "Mobile/PC",
+            "2D Multi-platform"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Maze",
+          "description": null,
+          "raw_variations": [
+            "2D Maze"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Multiplayer",
+          "description": null,
+          "raw_variations": [
+            "2D Mobile/Multiplayer PC"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Retro",
+          "description": null,
+          "raw_variations": [
+            "2D Retro",
+            "2D Retro-NES"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Action",
+          "description": null,
+          "raw_variations": [
+            "3D Action",
+            "3D Action/Adventure",
+            "3D Destruction"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Prototype",
+          "description": null,
+          "raw_variations": [
+            "2D Prototypes",
+            "2D Prototype"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Stylized",
+          "description": null,
+          "raw_variations": [
+            "3D Pixel Art",
+            "3D Stylized",
+            "3D Low Poly"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Marketing",
+          "description": null,
+          "raw_variations": [
+            "2D Marketing Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Fighting",
+          "description": null,
+          "raw_variations": [
+            "2D Fighting Game",
+            "2D Fighting"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Farming",
+          "description": null,
+          "raw_variations": [
+            "2D Farming"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Open World",
+          "description": null,
+          "raw_variations": [
+            "Open World Proc-Gen",
+            "3D Open World",
+            "3D Endless World",
+            "3D Open World/Racing",
+            "3D Open World MMO",
+            "3D Openworld",
+            "3D Open World Space Simulator"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Incremental",
+          "description": null,
+          "raw_variations": [
+            "2D Incremental"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Desktop App",
+          "description": null,
+          "raw_variations": [
+            "Desktop App"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Team Project",
+          "description": null,
+          "raw_variations": [
+            "Team Project"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Life Sim",
+          "description": null,
+          "raw_variations": [
+            "2D Life Simulator"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Networked",
+          "description": null,
+          "raw_variations": [
+            "3D Networked"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Physics",
+          "description": null,
+          "raw_variations": [
+            "3D Physics-based"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Boardgame",
+          "description": null,
+          "raw_variations": [
+            "2D Boardgame"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "AAA Indie",
+          "description": null,
+          "raw_variations": [
+            "AAA Indie"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Experimental",
+          "description": null,
+          "raw_variations": [
+            "3D Experimental"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Trivia",
+          "description": null,
+          "raw_variations": [
+            "2D Mobile Trivia"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Narrative",
+          "description": null,
+          "raw_variations": [
+            "3D Narrative",
+            "3D Retro",
+            "3D Virtual Production",
+            "3D Story-driven",
+            "3D Visual Novel"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Singleplayer",
+          "description": null,
+          "raw_variations": [
+            "3D Singleplayer",
+            "2D Single-player"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Tactics",
+          "description": null,
+          "raw_variations": [
+            "2D Turn-based Tactics",
+            "2D Platformer/Tower Defense"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|AR",
+          "description": null,
+          "raw_variations": [
+            "3D AR",
+            "Mobile AR"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Space Sim",
+          "description": null,
+          "raw_variations": [
+            "2D Space Sim"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|RPG",
+          "description": null,
+          "raw_variations": [
+            "3D Sandbox Space RPG",
+            "3D RPG",
+            "3D RPG/RTS Hybrid"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Horror",
+          "description": null,
+          "raw_variations": [
+            "2D Horror",
+            "2D Survival-Horror"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Animation",
+          "description": null,
+          "raw_variations": [
+            "3D Character Animation",
+            "3D Film/TV",
+            "3D PreViz"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|MMO",
+          "description": null,
+          "raw_variations": [
+            "3D MMO",
+            "3D Large-scale Multiplayer",
+            "3D Network Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Tabletop",
+          "description": null,
+          "raw_variations": [
+            "3D Table/Card/Gambling"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Top-down",
+          "description": null,
+          "raw_variations": [
+            "3D Top-down"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Rhythm/Racing",
+          "description": null,
+          "raw_variations": [
+            "3D Rhythm/Racing",
+            "3D VR Rhythm Game"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Virtual World",
+          "description": null,
+          "raw_variations": [
+            "3D Virtual World"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "AAA",
+          "description": null,
+          "raw_variations": [
+            "3D AAA/AA"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "3D|Arcade",
+          "description": null,
+          "raw_variations": [
+            "3D Pinball"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "2D|Sports",
+          "description": null,
+          "raw_variations": [
+            "2D Sports"
+          ],
+          "subcategories": []
+        },
+        {
+          "normalized_value": "Hybrid|General",
+          "description": "Projects mixing 2D and 3D.",
+          "raw_variations": [
+            "2D/3D Unknown",
+            "2D/3D UI",
+            "2D/3D Single-player",
+            "2D/3D Point and Click"
+          ],
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "field_path": "categories_discussed.category",
+      "categories": [
+        {
+          "normalized_value": "Capabilities",
+          "description": null,
+          "raw_variations": [
+            "infrastructure",
+            "integration",
+            "portability"
+          ],
+          "subcategories": [
+            {
+              "normalized_value": "Networking & Multiplayer",
+              "description": null,
+              "raw_variations": [
+                "networking",
+                "multiplayer",
+                "multiplayer_capabilities",
+                "multiplayer_basics",
+                "Unity built-in networking",
+                "Dedicated servers",
+                "Servers",
+                "Lobby System",
+                "Facebook features",
+                "netcode",
+                "WebGL networking",
+                "net code",
+                "Multiplayer/Matchmaking",
+                "uNet",
+                "Netcode",
+                "Netcode for GameObjects",
+                "Mirror/Photon",
+                "Photon Unity Networking",
+                "Custom Game Servers",
+                "Server/Map Switching",
+                "Mirror Networking",
+                "Multiplayer hosting",
+                "v4 Networking",
+                "NetCode",
+                "Multiplayer Services",
+                "multiplayer_connectivity",
+                "network code",
+                "NetCode for GameObjects",
+                "Mirror",
+                "multiplayer support",
+                "Server-Client Communication",
+                "Multiplayer networking",
+                "v3.4 Networking",
+                "Server-authoritative networking",
+                "UNET relay",
+                "Server Hosting",
+                "State synchronization",
+                "TNet",
+                "Photon",
+                "Multiplayer replication",
+                "networking system",
+                "NetDriver",
+                "RPCs",
+                "multiplayer_networking",
+                "Sockets",
+                "Multiplayer API",
+                "networking_stack",
+                "default networking",
+                "platform_compatibility",
+                "cloud_save",
+                "social_features"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Physics & Simulation",
+              "description": null,
+              "raw_variations": [
+                "physics",
+                "physics_system",
+                "built-in physics",
+                "Graphics/Physics",
+                "cloth physics",
+                "Native unity physics",
+                "Collision System",
+                "Collision/Animation",
+                "PhysX bindings",
+                "WheelCollider",
+                "Kinematic body stepping",
+                "physics interactions",
+                "Bullet Physics",
+                "Unity Physics",
+                "Vanilla Physics",
+                "Physics objects",
+                "Physics runtime",
+                "collision",
+                "Physics/Collision",
+                "collision_detection"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Audio",
+              "description": null,
+              "raw_variations": [
+                "audio",
+                "audio_capabilities",
+                "audio_middleware",
+                "audio_synchronization",
+                "audio_feedback",
+                "audio_implementation",
+                "AudioSource system",
+                "Audio settings",
+                "BASS plugins",
+                "AudioSource.GetSpectrumData",
+                "Audio engine",
+                "audio_module",
+                "Spatial audio engine",
+                "sound",
+                "realtime audio processing",
+                "Spatial audio",
+                "Music tracker",
+                "audio_latency",
+                "audio_processing",
+                "FMOD integration",
+                "audio_system"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Rendering & Graphics",
+              "description": null,
+              "raw_variations": [
+                "graphics",
+                "rendering",
+                "rendering_quality",
+                "visual_fidelity",
+                "visual_uniqueness",
+                "visual_style",
+                "visual_quality",
+                "general_quality",
+                "particles",
+                "materials",
+                "anti_aliasing",
+                "lighting",
+                "vfx_development",
+                "postprocessing",
+                "visuals",
+                "visual_effects",
+                "texture_handling",
+                "custom shaders",
+                "LightmapGI",
+                "3D renderer",
+                "photorealism",
+                "color_pipeline",
+                "rendering_and_graphics",
+                "light mapping system",
+                "cinematic image effects suite",
+                "HLSL support",
+                "3D visuals",
+                "PBR lighting engine",
+                "Baking lights",
+                "Metal support",
+                "Signed Distance Functions",
+                "Water Reflections",
+                "Post-processing effects",
+                "Rendering (Lumen/Motion Blur)",
+                "Baked textures",
+                "Graphics API",
+                "Stylized rendering",
+                "post processing",
+                "Rendering API",
+                "rendering loop",
+                "3D Lighting",
+                "pixel art rendering",
+                "3D Camera",
+                "particle_systems",
+                "Shader programming",
+                "Visual Fidelity",
+                "Visual fidelity workflow",
+                "Cloud rendering",
+                "2D renderer",
+                "Baked Lights",
+                "Shader compilation",
+                "3D aesthetics",
+                "2D lighting",
+                "antialiasing",
+                "Texture Mapping",
+                "rendering code",
+                "shader compilation",
+                "HDR",
+                "lightmaps",
+                "render pipeline",
+                "3D API",
+                "Optimization",
+                "Light Probes",
+                "Lumen Raytracing",
+                "Realtime GI",
+                "Shaders",
+                "Shader Graph/Shaders",
+                "Lighting engines",
+                "static scene rendering",
+                "lighting and post-processing",
+                "High-fidelity Art",
+                "visual assets",
+                "Built-in pipeline",
+                "lightmapper",
+                "Post-processing/Shaders",
+                "shader customization",
+                "render_pipeline",
+                "colorblind correction shaders",
+                "Physically Based Rendering",
+                "Post Processing",
+                "InstancedRendering",
+                "Rendering features",
+                "Terrain painting",
+                "URP",
+                "GPU pipeline",
+                "grass rendering",
+                "SDFGI/SSIL",
+                "dynamic_occlusion",
+                "Lumen and Nanite",
+                "3D graphics",
+                "Visuals",
+                "pixel rendering",
+                "rendering_code",
+                "graphic effects",
+                "2D rendering",
+                "Post-processing",
+                "rendering pipeline",
+                "Shadows",
+                "occlusion",
+                "tonemapper",
+                "Lighting/Materials/Post-processing",
+                "Baked Terrain",
+                "Voxel terrain",
+                "Terrain/Vegetation",
+                "motion blur",
+                "Out of the box rendering",
+                "Render Pipelines",
+                "grass shaders",
+                "projectors",
+                "Standard shader",
+                "post-processing",
+                "Web-based rendering",
+                "3D render",
+                "2D light system",
+                "text visuals",
+                "landscaping",
+                "SSDO",
+                "material editor",
+                "Graphics settings",
+                "shader and lighting systems",
+                "Graphical pipeline",
+                "Ray Tracing",
+                "3D pipeline",
+                "Rendering Pipeline",
+                "Default Renderer",
+                "Rendering and Lighting",
+                "Ray tracing",
+                "Visual Shader Tool",
+                "shader graphs",
+                "Lighting and Reflections",
+                "Visual fidelity",
+                "2D graphics",
+                "3D Renderer",
+                "forward shading renderer",
+                "Builtin Renderer",
+                "rendering_accuracy",
+                "aesthetics"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Animation & Navigation",
+              "description": null,
+              "raw_variations": [
+                "animation",
+                "navigation",
+                "ai_pathfinding",
+                "animation_tools",
+                "animation_workflow",
+                "animation_system",
+                "ai",
+                "ai_systems",
+                "pathfinding",
+                "ai_navigation",
+                "sprites and animations",
+                "Skeleton/Animation",
+                "Animation Events",
+                "AI Navigation",
+                "Active Ragdolls",
+                "NavAgent",
+                "cinematic tools",
+                "Spine",
+                "Metahuman Animator",
+                "decal system",
+                "skeletal mesh collisions",
+                "AI Support",
+                "AI integration",
+                "humanoid animation system",
+                "cinematic timeline",
+                "pathfinding systems",
+                "timeline",
+                "Navpath",
+                "Nav Mesh",
+                "Retargeting",
+                "Rigify",
+                "Movement controls",
+                "morphing_systems",
+                "animation rigging",
+                "animation tools",
+                "Animation FSM",
+                "animation framework",
+                "navmesh",
+                "animation_retargeting",
+                "Pathfinding system",
+                "NavMesh bake process",
+                "Recast",
+                "NPC AI",
+                "Animation editor",
+                "NavMeshes",
+                "Animation and Rigging",
+                "skeletal animations",
+                "animation creation",
+                "A* pathfinding",
+                "Aron Granberg A*",
+                "Navmeshes",
+                "Spine2D integration",
+                "terrain_system"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "UI System",
+              "description": null,
+              "raw_variations": [
+                "ui_development",
+                "ui",
+                "display_modes",
+                "accessibility",
+                "Unreal UI",
+                "Canvas & UI system",
+                "drag n drop UI",
+                "Canvas Scaler",
+                "Watermark/Splash Screen",
+                "Font support",
+                "GUI and workflow",
+                "Logic GUIs",
+                "Scroll View",
+                "UX",
+                "UI system",
+                "Unity UI system",
+                "Drag and Drop Interface",
+                "UI Framework",
+                "UI functions",
+                "text rendering",
+                "textbox",
+                "GUI solution",
+                "input field",
+                "UI solution",
+                "GUI workflow",
+                "Text entry",
+                "2D/UI",
+                "UI optimization",
+                "UI buttons",
+                "Overall UI",
+                "Default UI",
+                "UI Canvases",
+                "UI elements system",
+                "UI hierarchy",
+                "UI samples",
+                "UI/Settings",
+                "GUI",
+                "UI fonts",
+                "Unity3D UI",
+                "UI Systems",
+                "Responsive design tools",
+                "UI building blocks",
+                "Canvas UI",
+                "input"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Feature Set",
+              "description": null,
+              "raw_variations": [
+                "capabilities",
+                "suitability",
+                "scalability",
+                "versatility",
+                "flexibility",
+                "extensibility",
+                "mechanics",
+                "vr_support",
+                "vr_integration",
+                "vr_development",
+                "modding_support",
+                "2D features",
+                "video_support",
+                "large scale production",
+                "Indie support",
+                "scripting systems",
+                "2D framework",
+                "2D engine",
+                "3D_support",
+                "Unity features",
+                "New features",
+                "low-level features",
+                "hardware interaction",
+                "engine-level access",
+                "game engine features",
+                "Engine Access",
+                "Built-in features (input, graphics, particles, physics)",
+                "Middleware",
+                "Platform Reach",
+                "Feature Abundance",
+                "lossless compression",
+                "Commercial Use",
+                "Ease of extension",
+                "platform_support",
+                "cross_platform_support",
+                "cross_platform",
+                "multiplatform",
+                "Multiplatform",
+                "Multi-platform support",
+                "Multi-platform publishing",
+                "Device support",
+                "porting_capabilities",
+                "hardware_integration",
+                "streaming support",
+                "battery_usage",
+                "Video playback",
+                "ad_support",
+                "player_tracking",
+                "Revenue Cut",
+                "Export Licenses",
+                "Language support",
+                "Middleware",
+                "2D Tools"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Localization",
+              "description": null,
+              "raw_variations": [
+                "localization",
+                "Translation logic",
+                "translation system",
+                "Localization system"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Language Support",
+              "description": null,
+              "raw_variations": [
+                "language",
+                "language_support",
+                "language_capabilities",
+                "language_suitability",
+                "C++/C#",
+                "managed language/reference handling",
+                "Game Maker Language",
+                "C# Integration",
+                "Python/Pygame",
+                "Rust syntax",
+                "C# layer",
+                "Classes",
+                "Python",
+                "Vtable",
+                "SIMD/SSE",
+                "Unity C#",
+                "C# support",
+                "Scripting language",
+                "Code",
+                "static variables",
+                "scripting engine",
+                "Kotlin integration",
+                "Monobehavior",
+                "AngelScript",
+                "GDScript static typing",
+                "OpenGL bindings",
+                "GMscript",
+                "syntax",
+                "C# Delegates",
+                "C++ (UObjects)",
+                "Scripting Language",
+                "Ruby",
+                "GDScript integration",
+                "coding language",
+                "C++ classes",
+                "Functional-first language support",
+                "Pascal",
+                "UE5 and C++",
+                "JavaScript/TypeScript",
+                "C# and Rust",
+                "C# and Unity",
+                "C# and JavaScript",
+                "Ruby scripting",
+                "F# support",
+                "GDScript",
+                "C# DLLs",
+                "C++/C#/GDNative",
+                "Language Support",
+                "Verse",
+                "C++ examples",
+                ".NET runtime integration",
+                "Programming Languages",
+                "LUA",
+                "Scripting",
+                "Java/Kotlin",
+                ".NET",
+                ".NET framework",
+                "Unity Script",
+                "Unity and C#",
+                "HLSL",
+                "Rust GDExtension",
+                "JavaScript scripting",
+                "C# Support",
+                "Rust",
+                "F# integration",
+                "C API",
+                "C++ modules",
+                "C++ source code",
+                "C# implementation",
+                "C# and Graphic Editor",
+                "C++ GDExtension",
+                ".Net"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "General",
+              "description": null,
+              "raw_variations": [
+                "capabilities",
+                "suitability",
+                "versatility",
+                "mechanics"
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "normalized_value": "Development Experience",
+          "description": null,
+          "raw_variations": [
+            "compilation",
+            "deployment",
+            "security"
+          ],
+          "subcategories": [
+            {
+              "normalized_value": "Ease of Use",
+              "description": null,
+              "raw_variations": [
+                "ease_of_use",
+                "usability",
+                "productivity",
+                "customization",
+                "general_experience",
+                "learning_curve",
+                "Learning curve",
+                "learning curve",
+                "Intuitive interface",
+                "programmer_productivity",
+                "QoL tools",
+                "New User Experience",
+                "GUI-based development"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Editor & Tooling",
+              "description": null,
+              "raw_variations": [
+                "tooling",
+                "porting_system",
+                "asset_management",
+                "api_design",
+                "ai_tooling",
+                "scripting",
+                "asset_pipeline",
+                "input_system",
+                "input_handling",
+                "live coding",
+                "Hammer editor",
+                "rebuild trigger",
+                "FlashDevelop",
+                "Unity Interface",
+                "Defold Editor",
+                "GUI-less workflow",
+                "Supporting tools",
+                "Code-first workflow",
+                "Tool scripts",
+                "Third-party tools",
+                "Editor boot time",
+                "VS2012 integration",
+                "Property Panel",
+                "artist_tooling",
+                "Workflow",
+                "GUI and workflow",
+                "Team Workflow",
+                "editor tooling",
+                "Auto completion",
+                "Unity Inspector",
+                "code intellisense",
+                "IDE support",
+                "Unity Store",
+                "built-in code editors",
+                "GUI-based development",
+                "VSCode",
+                "Amplify Shader Editor",
+                "Visual logger",
+                "terrain_editor",
+                "GUI editor",
+                "Editor GUI",
+                "Inspectors",
+                "Extensibility",
+                "addons and plugins",
+                "asset library",
+                "Plugin support",
+                "Custom Graph Editors",
+                "Effects editors",
+                "scene editor",
+                "GMEdit",
+                "Personal Edition UI",
+                "Handles",
+                "asset_import",
+                "asset store",
+                "extensions/plugins",
+                "plugins",
+                "community",
+                "General tools",
+                "2D Tools",
+                "AI tools",
+                "Profiler",
+                "Asset Marketplace",
+                "drag-and-drop",
+                "GUI/Editor",
+                "editor-first workflow",
+                "built-in editor",
+                "IDE Workflow",
+                "Game Editor",
+                "QoL tools",
+                "Visual Editor",
+                "Visual Editors",
+                "Asset Preview",
+                "Unreal Marketplace",
+                "VR editor",
+                "Visual Studio installation",
+                "Visual Studio project load time",
+                "Unity Analytics Dashboard"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Debugging & Profiling",
+              "description": null,
+              "raw_variations": [
+                "debugging",
+                "debugging_tools",
+                "quality_assurance",
+                "bugs",
+                "bug_fixing",
+                "bug_prevention",
+                "testing",
+                "GitHub issue tracking",
+                "Test Framework",
+                "C++ Error Messages",
+                "Vulkan GPU profiling",
+                "Optimization",
+                "Debugging",
+                "debug tools",
+                "Logs",
+                "bug reporting",
+                "Sentry",
+                "profiler",
+                "performance testing package",
+                "Profiler",
+                "Issue Tracker",
+                "Bug fixing workflow",
+                "Crash Reporter",
+                "debugging scripts",
+                "Bug handling"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Version Control",
+              "description": null,
+              "raw_variations": [
+                "Perforce",
+                "Collab",
+                "version_control"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Prototyping",
+              "description": null,
+              "raw_variations": [
+                "prototyping"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Readability & Maintainability",
+              "description": null,
+              "raw_variations": [
+                "readability",
+                "maintainability",
+                "maintenance",
+                "Maintenance"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Architecture & Code",
+              "description": null,
+              "raw_variations": [
+                "architecture",
+                "coding_practices",
+                "coding_requirements",
+                "programming_language",
+                "code_quality",
+                "math_implementation",
+                "coding",
+                "data_management",
+                "data_persistence",
+                "gameplay_logic",
+                "level_design",
+                "data_storage",
+                "Team-based development",
+                "Frameworks",
+                "design model",
+                "scenes as prefabs",
+                "Unity way",
+                "scripting systems",
+                "Component Architecture",
+                "network model",
+                "Scene-based system",
+                "Development pipeline",
+                "Workflow",
+                "Event Management",
+                "Team Workflow",
+                "Component model",
+                "Composition",
+                "Multi-project structure",
+                "composition model",
+                "Code-based workflow",
+                "default_feature_setup",
+                "implementation strategy",
+                "Code Reusability",
+                "code workflow",
+                "backend_frontend_separation",
+                "inspector_polymorphism",
+                "Backend",
+                "Engine code",
+                "Scripting system (ECS)",
+                "Code structure",
+                "Codebase",
+                "engine code",
+                "Data-oriented design",
+                "Gameplay Layer",
+                "Gameplay implementation",
+                "gameplay code",
+                "Component Entity System",
+                "character_controller",
+                "FOSS/Source Access",
+                "Core Engine",
+                "Core Engineering",
+                "code execution order",
+                "Naming conventions",
+                "behaviour trees",
+                "workarounds",
+                "Core Engine Tech",
+                "Project Size/Optimization",
+                "engine_design",
+                "scene structure",
+                "OOP",
+                "core framework",
+                "Component-Based Approach",
+                "Inheritance",
+                "coding freedom",
+                "Class structures",
+                "gameplay implementation",
+                "game logic",
+                "Component based approach",
+                "composition",
+                "Static content workflow",
+                "In-house Engine",
+                "Custom Engine",
+                "programming",
+                "data_structures"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "General",
+              "description": null,
+              "raw_variations": [
+                "development experience",
+                "workflow"
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "normalized_value": "Performance & Optimization",
+          "description": null,
+          "raw_variations": [
+            "performance",
+            "optimization",
+            "efficiency",
+            "quality",
+            "compatibility"
+          ],
+          "subcategories": [
+            {
+              "normalized_value": "Runtime Speed",
+              "description": null,
+              "raw_variations": [
+                "input_latency",
+                "2D latency",
+                "touch_latency",
+                "framerate handling",
+                "FPS capping",
+                "framerate logic",
+                "battery_usage",
+                "Battery Life",
+                "multithreading",
+                "multi-core utilization",
+                "Jobs and Burst",
+                "update cycle",
+                "dynamic_batching",
+                "multicore_support",
+                "performance optimization tools",
+                "audio_latency",
+                "audio_processing"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Memory & Compilation",
+              "description": null,
+              "raw_variations": [
+                "memory_management",
+                "memory usage",
+                "Garbage collector",
+                "compile times",
+                "pre-compilation",
+                "Compile times",
+                "JIT compiler optimizations",
+                "Shader compilation",
+                "build times",
+                "compile times",
+                "Project Size/Optimization",
+                "engine_size",
+                "load times",
+                "De-allocation"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Build Size & Loading",
+              "description": null,
+              "raw_variations": [
+                "mobile build sizes",
+                "Package Size",
+                "Build size",
+                "build_size",
+                "APK size",
+                "iGPU",
+                "2D optimization",
+                "UI optimization",
+                "optimizations",
+                "3D performance",
+                "bake times",
+                "Number Precision",
+                "64-bit precision"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "General",
+              "description": null,
+              "raw_variations": [
+                "performance",
+                "optimization",
+                "Scaling",
+                "I/O performance"
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "normalized_value": "Stability & Reliability",
+          "description": null,
+          "raw_variations": [],
+          "subcategories": [
+            {
+              "normalized_value": "Crashes & Bugs",
+              "description": null,
+              "raw_variations": [
+                "crash_reporting",
+                "Crash Reporter",
+                "bugs",
+                "bug_fixing",
+                "bug_prevention",
+                "bug reporting",
+                "Bug handling"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Update Quality",
+              "description": null,
+              "raw_variations": [
+                "LTS versions",
+                "LTS support",
+                "Stable releases",
+                "Security/Updates"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Trust & Maturity",
+              "description": null,
+              "raw_variations": [
+                "trust",
+                "maturity",
+                "future_viability",
+                "stability",
+                "readiness",
+                "reliability",
+                "trustworthiness",
+                "Engine stability",
+                "quality_control"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "General",
+              "description": null,
+              "raw_variations": [
+                "stability",
+                "reliability"
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "normalized_value": "Documentation & Learning",
+          "description": null,
+          "raw_variations": [],
+          "subcategories": [
+            {
+              "normalized_value": "Official Documentation",
+              "description": null,
+              "raw_variations": [
+                "documentation",
+                "online docs",
+                "API docs",
+                "official documentation",
+                "Documentation",
+                "Official documentation",
+                "APIs and documentation",
+                "Legacy systems/Documentation",
+                "Documentation/Support",
+                "Documentation/Tutorials"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Tutorials & Courses",
+              "description": null,
+              "raw_variations": [
+                "learning_resources",
+                "resources",
+                "education",
+                "Create with Code course",
+                "Tutorials",
+                "Video Tutorials",
+                "Unity built-in tutorial pathway",
+                "Unity Essentials course",
+                "Unity YouTube channel",
+                "tutorials and materials",
+                "Unity Learn Pro",
+                "official video tutorials",
+                "educational content",
+                "2D isometry tutorials",
+                "tutorial",
+                "Learning Material",
+                "Learning section",
+                "Onboarding",
+                "Tutorials and Scripts",
+                "starter tutorials",
+                "Cookbooks",
+                "guides",
+                "tutorials",
+                "Unity tutorials",
+                "learning platform",
+                "learning content",
+                "Tutorial system",
+                "New User Experience",
+                "Support Materials",
+                "Learn platform",
+                "Learning resources",
+                "Official tutorials",
+                "Tutorials/Assets",
+                "Resources/Tutorials",
+                "Tutorials/Community",
+                "Video Tutorials"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Code Samples & Examples",
+              "description": null,
+              "raw_variations": [
+                "code samples",
+                "demo projects",
+                "example apps"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "General",
+              "description": null,
+              "raw_variations": [
+                "documentation",
+                "learning_resources"
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "normalized_value": "Ecosystem & Community",
+          "description": null,
+          "raw_variations": [
+            "assets",
+            "asset_availability",
+            "marketplace"
+          ],
+          "subcategories": [
+            {
+              "normalized_value": "Asset Store & Plugins",
+              "description": null,
+              "raw_variations": [
+                "ecosystem",
+                "Unity library",
+                "MonoGame.Extended",
+                "MonoGame",
+                "Tri-Inspector",
+                "2D framework",
+                "2D toolkits",
+                "BulletPhysics plugin",
+                "Steam workshop mod support",
+                "Electron",
+                "LLM for Unity",
+                "MetaHuman competitor",
+                "packages and versions",
+                "Assets",
+                "LibUltra",
+                "Asset libraries",
+                "Third-party library integration",
+                "templates and assets",
+                "Chromium plugins",
+                "UE Marketplace",
+                "Dialogue System for Unity",
+                "Asset integration",
+                "HTerrain plugin",
+                "Voxel Tools plugin",
+                "Ecosystem",
+                "addons and plugins",
+                "asset library",
+                "asset ecosystem",
+                "3rd party packages",
+                "asset serialization",
+                "Engine Ecosystem",
+                "asset store",
+                "Megascans library",
+                "extensions/plugins",
+                "plugins",
+                "ecosystem of assets",
+                "3rd party plugins",
+                "Third-party packages",
+                "plug and play libraries",
+                "plugins and assets",
+                "Package Management",
+                "Marketplace Assets",
+                "plugin ecosystem",
+                "Libraries",
+                "Add-ons"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Community Support",
+              "description": null,
+              "raw_variations": [
+                "community_support",
+                "Unity Forums",
+                "Community Support",
+                "Official Support",
+                "community_resources",
+                "community and developer support",
+                "community",
+                "Online Support"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Industry Adoption & Hiring",
+              "description": null,
+              "raw_variations": [
+                "adoption",
+                "industry_adoption",
+                "talent_pool",
+                "career_prospects",
+                "career_growth",
+                "industry_presence",
+                "industry_standard",
+                "hiring_talent",
+                "hiring",
+                "career_viability",
+                "certification",
+                "career_value",
+                "market_impact",
+                "market_viability",
+                "reputation"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "General",
+              "description": null,
+              "raw_variations": [
+                "ecosystem",
+                "community",
+                "support",
+                "community",
+                "documentation / community",
+                "forums",
+                "RB Whitaker's guides"
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "normalized_value": "Business & Distribution",
+          "description": null,
+          "raw_variations": [
+            "marketing",
+            "analytics",
+            "risk_management"
+          ],
+          "subcategories": [
+            {
+              "normalized_value": "Pricing & Licensing",
+              "description": null,
+              "raw_variations": [
+                "pricing",
+                "cost",
+                "cost_effectiveness",
+                "pricing_model",
+                "pricing plan",
+                "Pricing Model",
+                "licensing",
+                "License Management",
+                "Licensing/Price/Source Code",
+                "Licensing Terms",
+                "licensing model",
+                "Pro license",
+                "Free version",
+                "Personal Edition",
+                "Unity Pro vs Free",
+                "Personal Plan",
+                "subscription service",
+                "billing model",
+                "Runtime Fees",
+                "Royalty fee",
+                "Revenue Share",
+                "revenue share",
+                "install_fee_policy",
+                "Watermark/Splash Screen",
+                "Personal Edition Splash Screen",
+                "Account Authorization",
+                "Account Management System",
+                "Unity Muse"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Monetization (Ads/IAP)",
+              "description": null,
+              "raw_variations": [
+                "monetization",
+                "advertising",
+                "ad_support",
+                "ad integration",
+                "AdMob integration",
+                "Admob Integration",
+                "Ad libraries",
+                "Ads integration",
+                "ads implementation",
+                "Ad-based monetization",
+                "Sponsorship",
+                "IAP implementation",
+                "In-app purchases abstraction"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "Publishing & Market Viability",
+              "description": null,
+              "raw_variations": [
+                "distribution",
+                "marketability",
+                "market_impact",
+                "market_viability",
+                "publishing",
+                "publishing pipeline",
+                "Publishing requirements",
+                "Publishing",
+                "Mobile Porting",
+                "console_porting",
+                "console_support",
+                "Android export",
+                "Desktop export",
+                "WebGL exporter",
+                "iOS/Android export",
+                "export",
+                "Hosted mode",
+                "porting",
+                "professional service interface",
+                "business_model",
+                "business_viability",
+                "business_practices",
+                "Revenue Cut",
+                "Export Licenses",
+                "Privacy",
+                "hardware_support",
+                "events",
+                "branding",
+                "transparency",
+                "ownership",
+                "moddability",
+                "privacy"
+              ],
+              "subcategories": []
+            },
+            {
+              "normalized_value": "General",
+              "description": null,
+              "raw_variations": [
+                "business",
+                "distribution",
+                "marketability",
+                "industry_presence"
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "normalized_value": "General",
+          "description": null,
+          "raw_variations": [
+            "general"
+          ],
+          "subcategories": []
+        }
+      ]
+    }
+  ],
+  "ignored_fields": [
+    "id",
+    "overall_engine_sentiment",
+    "developer_persona",
+    "categories_discussed",
+    "opinion_summary",
+    "created_at",
+    "subreddit",
+    "url",
+    "categories_discussed.sentiment",
+    "categories_discussed.target_feature"
+  ]
+}
